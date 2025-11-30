@@ -65,25 +65,6 @@ class FilraSpanRebel:
         }
 ```
 
-### 💀 CURRENT OPERATIONS | 現在の作戦
-
-#### 🎓 Learning Journey
-- 📚 Cybersecurity Student
-- 🏆 CEH Goal
-- ⚔️ OSCP Goal
-- 🇯🇵 Japanese Language & Culture
-
-#### 🌑 Research & Skills
-- 🕸️ Deep Web Research & Navigation
-- 🔍 Darknet OSINT Techniques
-- 🎯 Network Security Fundamentals
-- 🔓 Linux System Administration
-- 🐍 Python Programmer
-- 🌐 Web Security Basics
-- 🔬 Penetration Testing Basics
-- 🕵️ Information Gathering
-
----
 
 ## 🔮 DIGITAL ARMORY | デジタル武器庫
 
