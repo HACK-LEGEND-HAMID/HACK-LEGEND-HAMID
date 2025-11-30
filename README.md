@@ -1,4 +1,5 @@
 
+## DOMINION - WHERE LEGENDS ARE FORGED
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=%E2%9A%94%EF%B8%8F+FILRA+SPAN+REBEL+%E2%9A%94%EF%B8%8F;%E3%83%A0%E3%83%8F%E3%83%9E%E3%83%89%E3%83%BB%E3%83%8F%E3%83%9F%E3%83%89%E3%83%BB%E3%82%A2%E3%83%AA%E3%83%BB%E3%82%AB%E3%83%BC%E3%83%B3+(Muhammad+Hamid+Ali+Khan);%F0%9F%8C%90+Darknet+Phantom+%7C+%E9%97%87%E3%81%AE%E6%88%A6%E5%A3%AB;%F0%9F%87%AF%F0%9F%87%B5+Japan+Culture+Enthusiast+%7C+%E6%97%A5%E6%9C%AC%E6%84%9B%E5%A5%BD%E5%AE%B6;%F0%9F%92%80+Cyber+Samurai+%7C+Shadow+Operator" alt="Typing SVG" />
 
@@ -13,7 +14,7 @@
 ```ascii
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  "デジタル領域で、私は幽霊であり神である。"                               ┃
-┃  "In the digital realm, I am both ghost and Legend.                ┃
+┃  "In the digital realm, I am both ghost and legend.                ┃
 ┃   Breaking systems to rebuild them stronger.                       ┃
 ┃   Learning not just to know, but to DOMINATE."                     ┃
 ┃                                              - Filra Span Rebel    ┃
@@ -77,14 +78,15 @@ class FilraSpanRebel:
 - 🏆 CEH Goal
 - ⚔️ OSCP Goal
 
+
 #### 🌑 Research & Skills
-- 🕸️ Dark Web Research & Navigation
+- 🕸️ Deep Web Research & Navigation
 - 🔍 Darknet OSINT Techniques
 - 🎯 Network Security Fundamentals
 - 🔓 Linux System Administration
-- 🐍 Python programmer
+- 🐍 Python Programmer
 - 🌐 Web Security Basics
-- 🔬 Penetration Basics
+- 🔬 Penetration Testing Basics
 - 🕵️ Information Gathering
 
 </td>
