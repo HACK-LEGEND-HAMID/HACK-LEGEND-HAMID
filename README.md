@@ -1,15 +1,7 @@
-<div align="center">
 
-<picture>
-  <source media="(max-width: 768px)" srcset="https://media.tenor.com/gxejfLN-T5IAAAAC/madara-uchiha.gif">
-  <img src="https://media.tenor.com/gxejfLN-T5IAAAAC/madara-uchiha.gif" alt="Madara Uchiha" style="max-height: 300px; width: 100%; object-fit: cover; border-radius: 10px;">
-</picture>
-
-</div>
 
 <div align="center">
 
-# 🌌 VYNTRAX DOMINION 🌌
 ### DOMINION - WHERE LEGENDS ARE FORGED
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=%E2%9A%94%EF%B8%8F+FILRA+SPAN+REBEL+%E2%9A%94%EF%B8%8F;Muhammad+Hamid+Ali+Khan;%F0%9F%8C%90+Darknet+Phantom;%F0%9F%87%AF%F0%9F%87%B5+Japan+Culture+Enthusiast;%F0%9F%92%80+Cyber+Samurai" alt="Typing SVG" />
@@ -24,7 +16,7 @@
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  "In the digital realm, I am both ghost and god."  ┃
+┃  "In the digital realm, I am both ghost and legend ┃
 ┃   Breaking systems to rebuild them stronger.       ┃
 ┃   Learning not just to know, but to DOMINATE.      ┃
 ┃                            - Filra Span Rebel      ┃
@@ -68,7 +60,6 @@ class FilraSpanRebel:
         return {
             "exploitation": ["Network Pentesting", "VM Labs"],
             "recon": ["OSINT", "Darknet Research", "Onion Sites"],
-            "defense": ["Windows Internals", "System Hardening"],
             "protocols": ["TCP/IP", "ICMP", "ARP", "TOR"],
             "arsenal": ["Python", "C", "Bash", "HTML/CSS"]
         }
@@ -137,17 +128,16 @@ class FilraSpanRebel:
 
 ```
 ╔════════════════════════════════════════════════╗
-║    🌑 DARKNET DOMINANCE • 闇のドミニオン 🌑   ║
-║                                                ║
+║    🌑 DARKNET DOMINANCE • 闇のドミニオン 🌑     ║
+║                                               ║
 ║  💀 Elite Hackers • Cyber Warriors            ║
-║  🕸️ Darknet Explorers • Code Assassins       ║
-║                                                ║
+║  🕸️ Darknet Explorers • Code Assassins        ║
+║                                               ║
 ║  🔥 Learn Advanced Techniques                 ║
 ║  🎯 Participate in CTF Challenges             ║
 ║  🕵️ Master OSINT & Operations                 ║
 ║  📚 Access Exclusive Resources                ║
-║  🛡️ Collaborate on Projects                   ║
-║  🇯🇵 Japanese Cybersecurity Culture           ║
+║  🛡️ Collaborate on Projects                   ║        ║
 ╚════════════════════════════════════════════════╝
 ```
 
