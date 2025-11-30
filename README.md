@@ -13,7 +13,7 @@
 ```ascii
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃  "デジタル領域で、私は幽霊であり神である。"                           ┃
-┃  "In the digital realm, I am both ghost and god.                   ┃
+┃  "In the digital realm, I am both ghost and Legend.                   ┃
 ┃   Breaking systems to rebuild them stronger.                       ┃
 ┃   Learning not just to know, but to DOMINATE."                     ┃
 ┃                                              - Filra Span Rebel    ┃
