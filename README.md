@@ -101,37 +101,6 @@ class FilraSpanRebel:
 
 ---
 
-## 🌐 VYNTRAX DOMINION COMMUNITY
-
-<div align="center">
-
-### ⚔️ JOIN THE REVOLUTION | 革命に参加 ⚔️
-
-```
-╔════════════════════════════════════════════════╗
-║    🌑 DARKNET DOMINANCE • 闇のドミニオン 🌑     ║
-║                                               ║
-║  💀 Elite Hackers • Cyber Warriors            ║
-║  🕸️ Darknet Explorers • Code Assassins        ║
-║                                               ║
-║  🔥 Learn Advanced Techniques                 ║
-║  🎯 Participate in CTF Challenges             ║
-║  🕵️ Master OSINT & Operations                 ║
-║  📚 Access Exclusive Resources                ║
-║  🛡️ Collaborate on Projects                   ║        ║
-╚════════════════════════════════════════════════╝
-```
-
-<a href="https://discord.gg/9uR4VbW2">
-  <img src="https://invidget.switchblade.xyz/9uR4VbW2" alt="Discord Invite">
-</a>
-
-### 🔗 [ENTER THE DOMINION | ドミニオンに入る](https://discord.gg/9uR4VbW2) 🔗
-
-</div>
-
----
-
 ## 📡 ESTABLISH CONTACT | 連絡先
 
 <div align="center">
