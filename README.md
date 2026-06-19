@@ -44,6 +44,7 @@ I'm currently a student doing my **Intermediate**, but my Real Passion lives in 
 ![OSINT](https://img.shields.io/badge/OSINT-DC3545?style=for-the-badge&logo=open-source-initiative&logoColor=white)
 ![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-FF6B35?style=for-the-badge&logo=virustotal&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-2E3440?style=for-the-badge&logo=nmap&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-FF6B35?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Environment**
 
