@@ -85,7 +85,7 @@ I'm currently a student doing my **Intermediate**, but my Real Passion lives in 
 <br/>
 
 ---
-🐍 Contribution Graph
+## 🐍 Contribution Graph
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 
 <!-- ===== QUOTE ===== -->
