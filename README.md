@@ -72,17 +72,14 @@ I'm currently a student doing my **Intermediate**, but my Real Passion lives in 
 
 <!-- ===== STATS ===== -->
 
-## 📊 GitHub Stats
+## GitHub Stats 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HACK-LEGEND-HAMID&show_icons=true&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=HACK-LEGEND-HAMID&show_icons=true&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=A0A0A0&ring_color=00F0FF" width="48%" />
+<img src="https://streak-stats.demolab.com?user=HACK-LEGEND-HAMID&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HACK-LEGEND-HAMID&theme=tokyonight&background=0D1117&hide_border=true&ring=00F0FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=A0A0A0" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HACK-LEGEND-HAMID&layout=compact&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=00F0FF&text_color=A0A0A0" width="36%" />
-
-<br/>
+## Top Languages 
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HACK-LEGEND-HAMID&layout=compact&theme=tokyonight" width="48%" />
 
 ---
 ## 🐍 Contribution Graph
