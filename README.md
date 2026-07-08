@@ -75,7 +75,12 @@ I'm currently a student doing my **Intermediate**, but my Real Passion lives in 
 ## GitHub Stats 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HACK-LEGEND-HAMID&show_icons=true&theme=tokyonight" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=HACK-LEGEND-HAMID&theme=tokyonight&hide_border=true" height="170" />
+## Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HACK-LEGEND-HAMID&theme=tokyo-night&hide_border=true"/>
+
+## Strike Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HACK-LEGEND-HAMID&theme=tokyonight&hide_border=true" />
 </p>
 
 ## Top Languages 
