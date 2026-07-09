@@ -18,7 +18,7 @@
 
 ## 👋 About Me
 
-Hey! I'm **Hamid** a CyberSec Enthusiast from **Pakistan 🇵🇰**
+Hey! I'm **Hamid** a CyberSec Enthusiast from **Pakistan 🇵🇰 Age 17**.
 
 I'm currently a student doing my **Intermediate**, but my Real Passion lives in the world of **Cyber Security** and **Development**. I love building tools, scripts, and applications and I love breaking them Even more. Not for harm, but to find the **loopholes** and **vulnerabilities** so they can be **fixed** before anyone else Exploits them.
 
